@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+/* base */
+@import url(./reset.css);
+@import url(./vars.css);
+@import url(./base.css);
+/* blocks */
+@import url(./btn.css);
+/* sections */
+@import url(./nav.css);
+@import url(./header.css);
+@import url(./section.css);
+@import url(./section2.css);
+@import url(./slider.css);
+@import url(./footer.css);
